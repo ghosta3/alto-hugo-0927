@@ -1,7 +1,7 @@
 colors:
   light:
     typography:
-      text: '#000000'
+      text: '#0705e8'
       flip-text: '#ffffff'
       text-main: '#363636'
       text-bright: '#000000'
@@ -12,8 +12,8 @@ colors:
       form-placeholder: '#949494'
       form-text: '#1d1d1d'
     background_colors:
-      body-bg-color: '#fff'
-      background-body: '#fff'
+      body-bg-color: '#ffffff'
+      background-body: '#ffffff'
       background: '#efefef'
       background-alt: '#f7f7f7'
     code_block_colors:
